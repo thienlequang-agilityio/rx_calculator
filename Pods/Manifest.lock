@@ -1,0 +1,30 @@
+PODS:
+  - RxCocoa (2.5.0):
+    - RxSwift (~> 2.5)
+  - RxSwift (2.5.0)
+  - RxVisualDebugger (0.1):
+    - RxSwift (~> 2.2)
+    - Swifter
+  - Swifter (1.2.0)
+
+DEPENDENCIES:
+  - RxCocoa
+  - RxSwift
+  - RxVisualDebugger (from `https://github.com/RxSwiftCommunity/RxVisualDebugger.git`)
+
+EXTERNAL SOURCES:
+  RxVisualDebugger:
+    :git: https://github.com/RxSwiftCommunity/RxVisualDebugger.git
+
+CHECKOUT OPTIONS:
+  RxVisualDebugger:
+    :commit: 7ae39a93d8faf4c3a00dcbab1fa006939af43224
+    :git: https://github.com/RxSwiftCommunity/RxVisualDebugger.git
+
+SPEC CHECKSUMS:
+  RxCocoa: e1b1562e57a554d0fb2aabf9d71b637f177257c7
+  RxSwift: 402b41a50e922a0368fc14cb3bc9f4427920e8ae
+  RxVisualDebugger: 5d5b9e07057df2e63b3254624b8e8ebe7579bba2
+  Swifter: 20493bf45b97e3296f910665a1211129cf282db3
+
+COCOAPODS: 0.39.0

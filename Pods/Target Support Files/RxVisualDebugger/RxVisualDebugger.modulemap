@@ -1,0 +1,6 @@
+framework module RxVisualDebugger {
+  umbrella header "RxVisualDebugger-umbrella.h"
+
+  export *
+  module * { export * }
+}
